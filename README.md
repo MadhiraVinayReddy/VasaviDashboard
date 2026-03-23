@@ -7,6 +7,7 @@
 [![Netlify](https://img.shields.io/badge/Deployed%20on-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://netlify.com/)
 
 A responsive, full-stack college administration dashboard that allows college admins to manage institutional information, track expenses, and control multi-role user access — all in real time.
+basic firebase crud operation Dummy Credentials: userName:admin@gmail.com password:Admin1
 
 > **Live:** [https://cllgportal.netlify.app/](https://cllgportal.netlify.app/)
 
